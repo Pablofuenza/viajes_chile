@@ -1,0 +1,27 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+nav {
+    background-color: none;
+}
+
+.navbar-brand img{
+    height: 3rem;
+    width: 3rem;
+}
+
+.about-us {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.featured {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.featured img{
+    height: 10rem;
+    width: auto;
+}
