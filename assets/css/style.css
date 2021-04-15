@@ -25,3 +25,43 @@ nav {
     height: 10rem;
     width: auto;
 }
+
+@media (max-width: 500px) {
+    
+    .featured .card {
+
+        width: 80%;
+
+        margin-left: 3.125rem;
+        
+    }
+
+}
+
+.contact {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.footer {
+    background-color: #17a2b8;
+    color: #ffffff;
+}
+
+.footer .footer-title {
+    text-align: center;
+    font-weight: 500;
+}
+
+@media (min-width: 500px) {
+
+    .footer .icons {
+
+        text-align: center;
+
+    }
+}
+
+.footer .icons i {
+    color: #ffffff;
+}
